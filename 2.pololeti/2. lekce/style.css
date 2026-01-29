@@ -1,0 +1,25 @@
+div{
+    background: blue;
+    border-radius: 5cm;
+    padding: 20px;
+    margin: 78px;
+    font-size: xx-large;
+
+
+}
+
+.ranger {
+    color: rgb(220, 183, 255);
+}
+.Bard {
+    color: rgb(81, 255, 0);
+}
+#Dih{
+    font-family:monospace;
+    color: rgb(167, 134, 134);
+    
+}
+p:last-child{
+    background-color: black;
+    text-align: center;
+}
