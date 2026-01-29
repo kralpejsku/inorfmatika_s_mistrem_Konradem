@@ -1,0 +1,36 @@
+.dihik{
+    width: 400px;
+    height: 400px;
+    background-color: aquamarine;
+    display: grid;
+    place-items: center;
+    border-radius: 7cm;
+}
+body{
+    margin: 0;
+    padding: 0;
+    font-family: fantasy;
+}
+section{
+    margin: 18px;
+    padding: 20px;
+}
+.parent{
+    width: 200px;
+    height: 200px;
+    background-color: crimson;
+    border-radius: 5cm;
+    display: grid;
+    
+
+}
+.child{
+    background-color: coral;
+    width: 50%;
+    height: 50%;
+    border-radius: 5cm;
+    display: grid;
+    place-items: center;
+    place-self: center ;
+    
+}
