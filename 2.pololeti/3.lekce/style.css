@@ -68,5 +68,37 @@ section{
     border-width: 5px;
     place-items: center;
     place-self: center;
+    border-style:double;
+
+}
+.box{background-color: rgb(123, 210, 221);
+    width: 100px;
+    height: 100px;
+    display: grid;
+    border-width: 5px;
+    place-items: center;
+    place-self: center;
+    margin: 10px;
+    padding: 5px;
+    border-radius: 8cm;
+    border-style: dashed;
+    border-color: rgb(7, 117, 16);
+
+}
+.demo{background-color: rgb(235, 255, 197);
+    width: 150px;
+    height: 150px;
+    display: grid;
+    border-width: 20px;
+    place-items: center;
+    place-self: center;
+    margin: 10px;
+    padding: 5px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-right: 120px;
+    border-radius: 8cm;
+    border-style: dashed;
+    border-color: rgb(121, 149, 228);
 
 }
