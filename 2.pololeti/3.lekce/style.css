@@ -34,3 +34,39 @@ section{
     place-self: center ;
     
 }
+.panel {
+    background-color: rgb(127, 127, 214);
+    width: 200px;
+    height: 200px;
+    display: grid;
+    border-width: 5px;
+    border-style: solid;
+    place-content: center;
+    place-self: center;
+    border-top-color: aqua;
+    border-bottom-color: rgb(117, 207, 124);
+    border-right-color: darkmagenta;
+    border-left-color: darksalmon;
+    
+}
+.mix {background-color: rgb(218, 181, 215);
+    width: 200 px;
+    height: 200px;
+    display: grid;
+    border-width: 5px;
+    border-style:dotted;
+    place-items: center;
+    border-top-style: double;
+    border-bottom-style: double;
+
+
+}
+.card{ background-color: rgb(201, 66, 172);
+    width: 150px;
+    height: 150px;
+    display: grid;
+    border-width: 5px;
+    place-items: center;
+    place-self: center;
+
+}
