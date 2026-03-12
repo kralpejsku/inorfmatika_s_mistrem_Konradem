@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+    padding: 0;
+    color: aliceblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-image: url("./artworks-LoZXucoIFEvw3rov-uElriA-t500x500.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.wrap{
+    margin: 20px;
+}
+.scroll{
+    background: rgba(255,255,255,0.3);
+    padding: 190px;
+    max-width: 320px;
+    border-radius: 15px;
+
+}
