@@ -15,7 +15,7 @@ h2{
     
     width: 500px;
   place-self: center;
-  
+  place-items: center;
   
     border-width: 5px;
   border-style: groove;
@@ -26,5 +26,6 @@ h2{
     margin: 14px;
     padding: 10px;
     width: 80px;
+ font-display: center;
     
 }
