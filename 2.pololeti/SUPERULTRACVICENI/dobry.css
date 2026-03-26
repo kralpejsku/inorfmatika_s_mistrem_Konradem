@@ -1,0 +1,16 @@
+.nig{
+    display: grid;
+    place-content: center;
+}
+.drak{
+    background-color: rgb(218, 181, 215);
+    width: 200 px;
+    height: 200px;
+    display: grid;
+    border-width: 5px;
+    border-style:dotted;
+    place-items: center;
+    border-top-style: double;
+    border-bottom-style: double;
+    
+}

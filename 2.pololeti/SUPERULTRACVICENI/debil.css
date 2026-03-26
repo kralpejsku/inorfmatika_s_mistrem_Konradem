@@ -1,0 +1,30 @@
+h1{    width: 200px;
+    height: 200px;
+    background-color: blueviolet;
+    display: grid;
+    place-items: center;
+    border-radius: 7cm;
+    place-self: center;
+
+}
+h2{
+    place-self: center;
+}
+.haf{
+    background-color: antiquewhite;
+    
+    width: 500px;
+  place-self: center;
+  
+  
+    border-width: 5px;
+  border-style: groove;
+}
+.box{
+   background-color: blueviolet;
+    display: inline-block;
+    margin: 14px;
+    padding: 10px;
+    width: 80px;
+    
+}

@@ -1,0 +1,44 @@
+.ne{    background-color: rgb(218, 181, 215);
+    width: 200 px;
+    height: 200px;
+    display: grid;
+    border-width: 5px;
+    border-style:dotted;
+    place-items: center;
+    border-top-style: double;
+    border-bottom-style: double;
+
+}
+h2{
+    color: rgb(180, 172, 252);
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+place-self: center;
+}
+
+.nig{
+    background-color: rgb(50, 154, 180);
+    width: 300px;
+  place-self: center;
+  
+    display: grid;
+    border-width: 5px;
+  border-style: groove;
+}
+.gr{
+     background-color: rgb(36, 98, 114);
+    width: 300px;
+  place-self: center;
+  
+    display: grid;
+    border-width: 5px;
+  border-style: groove;
+}
+.ahoj{
+     background-color: rgb(18, 50, 58);
+    width: 300px;
+  place-self: center;
+  
+    display: grid;
+    border-width: 5px;
+  border-style: groove;
+}
